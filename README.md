@@ -1,2 +1,10 @@
-# migrate_sqlite
-migrations for sqlite
+# README
+
+## Installation
+
+## Running
+
+### sqlite
+
+### mysql
+
