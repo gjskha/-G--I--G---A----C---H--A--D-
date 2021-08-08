@@ -1,4 +1,4 @@
-# -G--I--G---A----C---H--A--D-
+# GIGACHAD
 
 ## Installation
 
